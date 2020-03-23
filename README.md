@@ -9,12 +9,19 @@ After our team got the idea, we began with a wireframe to see how we would want 
 
 # Screenshot
 ![landingScreen](/assets/images/ss1.png)
+
 ![zipCodeInput](/assets/images/ss2.png)
+
 ![weatherReport](/assets/images/ss3.png)
+
 ![activities](/assets/images/ss4.png)
 
+# Goup Participants
+Front-end: Jayson Duff, John Senak
+Back-end: Pallavi Nama, Alan Ashworth
+
 # Repository Link
-https://github.com/fmiusov/Rain-or-Shine
+https://github.com/AlanAshworth/Rain-or-Shine
 
 # Deployed Site
-https://fmiusov.github.io/Rain-or-Shine/
+https://alanashworth.github.io/Rain-or-Shine/
